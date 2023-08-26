@@ -11,11 +11,11 @@ import {
   import { SafeAreaView } from "react-native";
   import { Feather } from "@expo/vector-icons";
   import { ImageSlider } from "react-native-image-slider-banner";
-  import { SliderData } from "./../Data/sliderData";
+  import { SliderData } from "../Data/sliderData";
   import FoodCategory from "../components/FoodCategory";
   import RestaurantsCard from "../components/RestaurantsCard";
   import { Ionicons } from "@expo/vector-icons";
-  import HotelCard from "./../components/HotelCard";
+  import HotelCard from "../components/HotelCard";
   import { HotelCardData } from "../Data/HotelCardData";
   
   const ScrollBtn = () => {
