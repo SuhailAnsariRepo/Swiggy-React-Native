@@ -1,4 +1,4 @@
-# My Universal React Project
+# Swiggy React Native
 
 <p>
   <!-- iOS -->
